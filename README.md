@@ -1,27 +1,20 @@
-# Projeto: Avaliação de Vulnerabilidades (Framework NIST SP 800-30)
+# Proyecto: Evaluación de Vulnerabilidades (Framework NIST SP 800-30)
 
-##  Sobre o Projeto
-Este repositório contém uma avaliação de vulnerabilidades completa realizada para uma empresa de comércio eletrónico. O objetivo principal foi identificar riscos num servidor de base de dados exposto e propor medidas de remediação baseadas em normas internacionais de cibersegurança.
+##  Sobre el Proyecto
+Este repositorio contiene una evaluación de vulnerabilidades exhaustiva realizada para una empresa de comercio electrónico. El objetivo principal fue identificar riesgos críticos en un servidor de base de datos expuesto y proponer una estrategia de remediación técnica basada en estándares internacionales.
 
-##  Cenário Operacional
-Uma empresa de e-commerce mantinha a sua base de dados de clientes aberta ao público durante três anos. Como analista de cibersegurança, realizei uma análise qualitativa para comunicar os riscos aos gestores e proteger os ativos da empresa.
+##  Escenario de Negocio
+Una empresa de e-commerce mantuvo su base de datos de clientes accesible al público durante tres años. Como analista de ciberseguridad, realicé un análisis cualitativo para comunicar los riesgos potenciales a los directivos y asegurar la infraestructura.
 
-##  Competências Demonstradas
-* **Análise de Risco:** Identificação de ameaças e cálculo de risco (Probabilidade x Gravidade).
-* **Conformidade:** Aplicação da framework **NIST SP 800-30 Rev. 1**.
-* **Cibersegurança Defensiva:** Implementação de estratégias de Defesa em Profundidade, MFA e Princípio do Menor Privilégio.
-* **Documentação Técnica:** Elaboração de relatórios profissionais para stakeholders.
+##  Competencias Demostradas
+* **Análisis de Riesgos:** Identificación de fuentes de amenaza y cálculo de impacto (Probabilidad x Gravedad).
+* **Cumplimiento y Marcos de Trabajo:** Aplicación estricta del **NIST SP 800-30 Rev. 1**.
+* **Ciberseguridad Defensiva:** Propuesta de controles como Defensa en Profundidad, MFA y el Principio de Menor Privilegio.
+* **Comunicación Técnica:** Elaboración de informes profesionales para la toma de decisiones.
 
-##  Conteúdo do Repositório
-* [Relatório Completo](./informes/Vulnerability_Assessment.md): Análise detalhada de ameaças e eventos.
-* [Matriz de Risco](./imagens/matriz_risco.png): Visualização qualitativa dos riscos identificados.
-
-##  Ferramentas e Conceitos Utilizados
-* NIST Special Publication 800-30 Revision 1.
-* Controles de Segurança AAA.
-* Infraestrutura de Chave Pública (PKI).
-* VPN & Firewalls.
+##  Archivos del Proyecto
+* [Informe Detallado de Evaluación](./Vulnerability_Assessment.md): Contiene la matriz de riesgos y el plan de remediación.
 
 ---
 **Contacto:**
-[Teu Nome] - [Link para o teu LinkedIn]
+[Angel Josue Hernandez Marmolejo] 
